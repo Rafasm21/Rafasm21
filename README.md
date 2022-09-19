@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Rafael 👋
 
-- 🌱 Estudando Front-End
+- 🌱 Estudando FullStack
 - 📫 Contate-me no e-mail: rafaelsm135@gmail.com
 - 😄 Pronouns: ele/dele
 
